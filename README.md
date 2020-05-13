@@ -11,8 +11,12 @@ I am a Graduate student working on my third semester of my masters in Applied Co
 I am not sure yet to work in a particular stream. I am looking forward to work on
 - UI/UX design
 - Android development
+
+## Skills
+- Can retrieve text using curl.
+- Can process the text data using Bash commands.
 ## Links
 1. [My Linkedin Profile-https://www.linkedin.com/in/venkat-prudhvi-dommaraju-188720186/](https://www.linkedin.com/in/venkat-prudhvi-dommaraju-188720186/)
-1. [Repo link of shell-data-processing](https://github.com/prudhvi15/shell-data-processing)
+1. [Repo link of shell-data-processing - https://github.com/prudhvi15/shell-data-processing](https://github.com/prudhvi15/shell-data-processing)
 
 ![](prudhvi.jpg)
