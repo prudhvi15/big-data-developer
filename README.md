@@ -13,7 +13,7 @@ I am not sure yet to work in a particular stream. I am looking forward to work o
 - Android development
 
 ## Skills
-- Can retrieve text using curl.
+- Can retrieve text from the URl using curl command.
 - Can process the text data using Bash commands.
 ## Links
 1. [My Linkedin Profile-https://www.linkedin.com/in/venkat-prudhvi-dommaraju-188720186/](https://www.linkedin.com/in/venkat-prudhvi-dommaraju-188720186/)
